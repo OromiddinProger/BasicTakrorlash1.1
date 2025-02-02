@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BasicTakrorlash1.1.props" />
+</Project>
